@@ -7,9 +7,9 @@
 O projeto foi desenvolvido durante do curso **React Native: criando um app** cujo o objetivo do projeto é implementar a tela de detalhes da cesta do e-commerce orgs. Nesta tela são mostrados dados estáticos do nome da cesta, fazenda, preço e itens da cesta.
 
 
-![foto1](https://github.com/aandrelouis/Alura_Criando_um_App/assets/app/foto1.png)
+![foto1](https://github.com/aandrelouis/Alura_Criando_um_App/blob/main/assets/app/foto1.png)
 
-![foto2](https://github.com/aandrelouis/Alura_Criando_um_App/assets/app/foto2.png)
+![foto2](https://github.com/aandrelouis/Alura_Criando_um_App/blob/main/assets/app/foto2.png)
 
 
 ## 🧑‍💻 Tecnologias
