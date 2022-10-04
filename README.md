@@ -1,12 +1,15 @@
 ![Thumbnails GitHub](https://user-images.githubusercontent.com/9091491/123842348-0e116c80-d8e7-11eb-8618-9c15cc743335.png)
 
-![](https://img.shields.io/github/license/nataliakt/alura-react-native-comecando-do-zero)
-
 # ⚛️ React Native: criando um app
 
 <h3 align="center"> Descrição do Projeto </h1>
 
 O projeto foi desenvolvido durante do curso **React Native: criando um app** cujo o objetivo do projeto é implementar a tela de detalhes da cesta do e-commerce orgs. Nesta tela são mostrados dados estáticos do nome da cesta, fazenda, preço e itens da cesta.
+
+
+![foto1](https://github.com/aandrelouis/Alura_Criando_um_App/assets/app/foto1.png)
+
+![foto2](https://github.com/aandrelouis/Alura_Criando_um_App/assets/app/foto2.png)
 
 
 ## 🧑‍💻 Tecnologias
